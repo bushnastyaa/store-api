@@ -1,0 +1,206 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Свеча Bubble",
+      "price": 670,
+      "description": "Кокосовый воск\n Время горения 16 часов\n Аромат на выбор\n Цена 670 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698587654/img_dkce0x.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588637/img-2_wmlct3.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 2,
+      "title": "Свеча 'Луна и Солнце'",
+      "price": 857,
+      "description": "Пальмовый воск\n Время горения 15 часов\n Аромат на выбор\n Цена 857 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588748/img-3_gxbvob.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588756/img-4_tl2cre.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 3,
+      "title": "Диффузор с орхидеей",
+      "price": 1200,
+      "description": "Ароматизатор\n Объем 200 мл\n Аромат орхидея\n Цена 1200 р/шт",
+      "category": "diffuser",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588770/img-5_eope9y.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588833/img-6_m79fuw.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Аромаформа 'Тело'",
+      "price": 950,
+      "description": "Кокосовый воск\n Время горения 17 часов\n Аромат на выбор\n Цена 950 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588848/img-7_r0vjjh.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588879/img-8_c822yw.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 5,
+      "title": "Свеча 'Куб из шаров'",
+      "price": 700,
+      "description": "Пчелиный воск\n Время горения 16 часов\n Аромат на выбор\n Цена 700 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588900/img-9_aaigvw.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588914/img-10_ycox7o.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 6,
+      "title": "Ароматические саше",
+      "price": 400,
+      "description": "Натуральный воск\n Держится 8 недель\n Аромат дикие ягоды\n Цена 400 р/шт",
+      "category": "sachet",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588942/img-11_hwzt7u.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588975/img-12_lm5pfc.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Свеча 'Облако'",
+      "price": 432,
+      "description": "Кокосовый воск\n Время горения 12 часов\n Аромат ваниль\n Цена 432 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698588990/img-13_vwlhk8.png"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Диффузор с вербеной",
+      "price": 962,
+      "description": "Ароматизатор\n Объем 120 мл\n Аромат вербена\n Цена 962 р/шт",
+      "category": "diffuser",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589015/img-14_latfss.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589036/img-15_dibwpz.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 9,
+      "title": "Свеча 'Женское тело'",
+      "price": 950,
+      "description": "Натуральный воск\n Время горения 18 часов\n Аромат ваниль\n Цена 670 р/шт",
+      "category": "candles",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589105/img-16_yuviue.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589120/img-17_rn7w0i.png"
+      ],
+      "featured": "featured"
+    },
+    {
+      "id": 10,
+      "title": "Флорентийское саше",
+      "price": 500,
+      "description": "Пчелиный воск\n Держится 6 недель\n Аромат смородина\n Цена 500 р/шт",
+      "category": "sachet",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589135/img-18_gdh8go.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589150/img-19_azselx.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Набор свечей с маслом ши",
+      "price": 1500,
+      "description": "Кокосовый воск\n Время горения 18 часов\n Масло ши\n Цена 1500 р/шт",
+      "category": "sets",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589301/gift_t8inqt.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Саше с лавандой",
+      "price": 510,
+      "description": "Ароматизатор\n Держится 8 недель\n Аромат лаванда\n Цена 510 р/шт",
+      "category": "sachet",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589203/img-20_yzy2jk.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Набор свечей с жасмином",
+      "price": 1430,
+      "description": "Кокосовый воск\n Время горения 18 часов\n Аромат жасмин\n Цена 1430 р/шт",
+      "category": "sets",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589317/gift-2_avto9s.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Диффузор 'Зимний лес'",
+      "price": 960,
+      "description": "Ароматизатор\n Объем 120 мл\n Аромат зимний лес\n Цена 960 р/шт",
+      "category": "diffuser",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589219/img-22_xjuqyc.png",
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589233/img-21_gluzs4.png"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Набор свечей с ромашкой",
+      "price": 1670,
+      "description": "Пальмовый воск\n Время горения 20 часов\n Аромат ромашка\n Цена 1670 р/шт",
+      "category": "sets",
+      "images": [
+        "https://res.cloudinary.com/dcsblcloa/image/upload/v1698589329/gift-3_pqmi7b.png"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "",
+      "visibleName": "Все товары"
+    },
+    {
+      "id": 1,
+      "name": "candles",
+      "visibleName": "Свечи"
+    },
+    {
+      "id": 2,
+      "name": "diffuser",
+      "visibleName": "Диффузоры"
+    },
+    {
+      "id": 3,
+      "name": "sachet",
+      "visibleName": "Саше"
+    },
+    {
+      "id": 4,
+      "name": "sets",
+      "visibleName": "Наборы"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "cart": {
+        "items": []
+      },
+      "generalSumInCart": 0
+    }
+  ]
+}
